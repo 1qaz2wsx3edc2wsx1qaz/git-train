@@ -1,0 +1,2 @@
+print("ｗｗｗ")
+print("ppp")
